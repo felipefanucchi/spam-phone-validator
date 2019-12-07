@@ -1,4 +1,4 @@
-# phone-validator
+# spam-phone-validator
 
 I created this simple algorithm, to solve a problem, maybe help someone else, or even improve this code.
 
